@@ -1,0 +1,12 @@
+{
+  "token": "TOKEN",
+  "prefix" : "!",
+  "owner" : ["586822327568695317","",""],
+  "clientid" : "BOT_İD",
+  "clientsecret" : "SCECRET",
+  "clientcallback" : "",
+  "mongoURL" : "",
+  "serverID": "",
+  "footer": "RabeL Code 2021 © All rights reserved.",
+  "tags": ["Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}
